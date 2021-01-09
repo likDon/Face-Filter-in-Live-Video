@@ -7,7 +7,7 @@ import glasses_drop
 import tags2D
 import blink_star
 import tongue
-import FaceSwap
+import swap_face
 
 
 window = tk.Tk()
